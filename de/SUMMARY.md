@@ -32,7 +32,7 @@
    * [Ein Farmer](how_to_use_it/farmers.md)
    * [Ein Endbenutzer](how_to_use_it/an_end_user.md)
    * [Ein App Entwickler](how_to_use_it/app_devs.md)
-   * [A Core Developer](how_to_use_it/a_core_developer.md)
+   * [Ein Core Entwickler](how_to_use_it/a_core_developer.md)
 * [Get involved](get_involved/README.md)
    * [Libraries](detail/README.md)
        * [Common](detail/Common.md)
