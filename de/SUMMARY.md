@@ -34,7 +34,7 @@
    * [Ein App Entwickler](how_to_use_it/app_devs.md)
    * [Ein Core Entwickler](how_to_use_it/a_core_developer.md)
 * [Beteilige Dich](get_involved/README.md)
-   * [Libraries](detail/README.md)
+   * [Bibliotheken](detail/README.md)
        * [Common](detail/Common.md)
        * [Passport](detail/Passport.md)
        * [RUDP](detail/RUDP.md)
