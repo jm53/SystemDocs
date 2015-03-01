@@ -1,4 +1,4 @@
-# An App Builder
+# En App Entwickler
 
 As an App Builder, developers create apps which run on the SAFE Network using the open source MaidSafe API, making use of the resources provided by Farmers on the network.  In doing so, they are rewarded with safecoins in proportion to how much the application is used.
 

@@ -1,12 +1,8 @@
-# An End User
+# Ein Endbenutzer
 
-An End User is a participant on the network who utilises the client side software to use applications created by App Builders. While they may only be
-End Users, they may also belong to any, or all of the other user groups.
+Ein Endbenutzer ist ein Teilnehmer im Netzwerk welcher auf die Client Software zurückgreift um die von Entwicklern erstellten Apps zu benutzen. Auch wenn sie lediglich Endbenutzer sein mögen, können sie auch zu allen anderen Gruppen gehören.
 
-An End User may decide not to become a Farmer, for example, as they have no additional resource to offer the network (they maybe running their own
-computer near capacity), or they use a mobile device, such as a phone or a tablet, as their primary method of network access. While it is planned that
-mobile devices will be able to earn safecoin, some manufacturers force disconnection of data after the screen has switched off, making them suboptimal
-farming devices.
+Ein Endbnutzer entscheidet sich vielleicht kein Farmer zu werden, weil er vielleicht keine zusätzlichen Ressourcen zur Verfügung hat die er dem Netzwerk bereitstellen könnten (z.b. weil er seinen eigenen Computer an der Kapazitätsgrenze betreibt), oder weil er ein mobiles Endgerät (Smartphone, Tablet) als primäres Gerät benutzt um auf das Netzwerk zuzugreifen. Obwohl geplant ist Farming auch mit mobilen Endgeräte zu ermöglichen, forcieren manche Hersteller ein Abschalten der Datenverbindung sobald der Bildschirm abgeschaltet wird, was sie zu suboptimalen Farming Geräten macht.
 
-Creating accounts and consuming data, such as a publicly shared pages, are free on the SAFE Network, however, using applications will require safecoin.
-End Users who are not Farmers, Core Developers or App Builders will need to acquire safecoin from decentralised exchanges.
+Konten zu erstellen und Daten zu nutzen, wie z.b. öffentlich geteilte Seiten, ist kostenfrei im SAFE Netzwerk, jedoch sind für die Nutzung von Apps Safecoins notwendig. Endbenutzer die keine Farmer sind, Core Entwickler oder App Entwickler werden Safecoins von dezentralen Börse erwerben müssen.
+
