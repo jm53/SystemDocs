@@ -1,35 +1,31 @@
-# Beteilige Dich
+# Get involved
 
-Die folgenden Links bieten Informationen wo man sich beteligen kann.
-
+The following links provide information on where to go if you want to get involved.
 
 * [MaidSafe.net](http://maidsafe.net)<br/>
-Die Firma die die Entwicklung und den Start des SAFE Netzwerkes koordiniert.
+The company coordinating the development and launch of the SAFE Network.
+
+* [Contacting MaidSafe](http://maidsafe.net/contact)<br />
+Get in touch with MaidSafe.
+
+* [The MaidSafe YouTube Channel](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)<br/>
+A large selection of videos about the SAFE Network and how it works.
 
 
-* [MaidSafe Kontakt](http://maidsafe.net/contact)<br />
-MaidSafe kontaktieren.
+### Core Developer and App Builder
 
-* [Der MaidSafe YouTube Kanal](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)<br/>
-Eine große Auswahl an Videos über das SAFE Netzwerk und wie es funktioniert.
-
-
-### Core und App Entwickler
-
-Die folgenden Links bieten weiterführende Informationen wenn Du ein Core oder App Entwicker bist.
-
+The following links provide more information if you are a Core Developer or an App Builder.
 
 * [GitHub](https://github.com/orgs/maidsafe)<br/>
-Alle GitHub Repositoriesfür das SAFE Netzwerk.
+All the GitHub repositories for the SAFE Network.
 
-* [Entwickler wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
-Das GitHub Repository bietet Details zu den Open Source Bibliotheken.
+* [Developer wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
+The GitHub repository that provides details of the open source libraries.
 
-* [Entwickler Aufgaben Liste](https://maidsafe.atlassian.net/secure/Dashboard.jspa)<br />
-Die aktuelle Liste an Bugs udn Aufgaben die Teil der SAFE Netzwerk Entwicklung sind.
+* [Developer task list](https://maidsafe.atlassian.net/secure/Dashboard.jspa)<br />
+The current list of bugs and tasks that are part of the SAFE Network development.
 
 * [maidsafe.org](https://www.maidsafe.org/)<br />
-Eine Resource 
 A community run resource for questions, debate and research into all aspects of the SAFE Network.
 
 ###White papers
