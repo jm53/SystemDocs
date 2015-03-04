@@ -1,18 +1,23 @@
-# Safecoin requests and roles
-There are different safecoin types of requests.
-* PUT - used to put safecoins (data) to a specified location
-* GET - used to get safecoins (data) from a specified location
-* EXCHANGE - used to change safecoins (data) between two specified locations
+# Safecoin Aufträge und Rollen
 
-Safecoins are another type of data and it has PUT and GET requests defined for it on the SAFE Network. However, unlike normal data, there is no DELETE request available.
+Es gibt verschiedene Safecoin Typen von Aufträgen
 
-The PUT request for safecoins has a "no duplication allowed" property. This means that if there is already a safecoin with the same name (first 32 bits), the PUT request is rejected. This check is handled by the Data manager receiving the request.
+* PUT - wird genutzt um safecoins (data) an einen bestimmten Ort zu legen
+* GET - wird genutzt um safecoins (data) von einem bestimmten Ort zu holen
+* EXCHANGE - wird genutzt um safecoins (data) zwischen zwei bestimmten Orten auszutauschen
 
-An EXCHANGE allows a requester to update the details of the safecoin but only if it follows the necessary rules.
+Safecoins sind ein weiterer Datentyp und hat im SAFE Netzwerk PUT und GET Aufträge definiert. Jedoch sind im Gegensatz zu normalen Daten keine DELETE Aufträge verfügbar.
 
-* Owner is approved by the majority of 3rd party Vaults (escrow).
-* Owner can (previous and current owners considered as approved themselves) update all fields.
-* Each 3rd party Vaults (escrow) can only update their correspondent field once.
-* Each time previous and current owner fields get updated, the safecoin version must be increased by one, and all escrow fields are erased.
+Die PUT Auftrag für Safecoins hat die "keine Vervielfältigung erlaubt" Eigenschaft. Das bedeutet das wenn es bereits einen Safecoin mit gleichem Namen (die ersten 32 bits) gibt, dann wird der PUT Auftrag zurückgewiesen. Diese Überprüfung wird vom Data Manager gehandhabt der den Auftrag erhält.
 
-The above rules are enforced by the Pmid manager holding the safecoin data. As the ownership field, together with the 3rd party Vaults (escrow) fields, are used as a 'transaction', the Pmid manager effectively becomes the Transaction manager. In this instance, the safecoin data can also be considered as a receipt object as well.
+Ein EXCHANGE erlaubt dem Anforderer die Details des Safecoin zu aktualisieren, unter der Voraussetzung das er den folgenden Regeln folgt:
+
+* Eigentümer ist von einer Mehrheit der Drittanbieter Vaults anerkannt (Treuhänder)
+** Eigentümer kann (vorheriger und derzeiter Eigentümer
+Owner can (previous and current owners considered as approved themselves) update all fields.**
+
+* Jeder Drittanbieter Vault (Treuhänder) kann seine jeweiligen Felder nur einmal aktualisieren
+* Jedes Mal wenn das vorherige und aktuelle Besitzer Feld aktualisiert werden, muss die Safecoin Version um eins erhöht werden und alle Treuhänder Felder werden gelöscht.
+
+Die genannten Regeln werden von dem Pmid Manager, der die Safecoin Daten vorhält, erzwungen. Das Eigentümerfeld wird zusammen mit den Drittanbieter Vault (Treuhänder) Feldern als Transaktion genutzt, der Pmid Manager wird damit effektiv zum Transaktions Manager. In diesem Fall können die Safecoin Daten auch als Empfangsobjekt angesehen werden.
+
