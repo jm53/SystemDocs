@@ -1,4 +1,4 @@
-#Accessing the SAFE Network
+#Доступ к сети SAFE
 The MaidSafe client is a program used to log in to and access the SAFE Network. After starting the MaidSafe client you are asked to provide login details.
 
 * Keyword
