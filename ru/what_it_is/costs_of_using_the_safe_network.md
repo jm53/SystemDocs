@@ -1,13 +1,14 @@
 #Доступ к сети SAFE
-The MaidSafe client is a program used to log in to and access the SAFE Network. After starting the MaidSafe client you are asked to provide login details.
 
-* Keyword
+Клиент MaidSafe - это программа, используемая для логина и доступа к сети SAFE. При запуске клиента Вам необходимо ввести: 
+
+* Ключевое слово
 * PIN
-* Password
+* Пароль
 
-With these details the SAFE Network authenticates the user on the SAFE Network and decrypts their data atlas, which provides them with access to all their encrypted data.
+Получив эту информацию, сеть аутентифицирует пользователя и расшифровывает карту данных, которая обеспечивает ему доступ к зашифровыванным данным 
 
-The MaidSafe client is a small, cross-platform and non-resource intensive program that does not impact your computer's performance. After you have been authenticated through the MaidSafe client you do not have to enter further passwords or keys to access other shared data or apps on the SAFE Network.
+Клиент MaidSafe это небольшая кроссплатформенная программа, которая не влияет на производительность вашего компьютера. После аутентификации через клиент Вам больше не придется вводить ключи или пароли для получения доступа к остальным данным или приложениям в сети.
 
 No passwords or log in details are cached by the MaidSafe client or stored on the network. This means that no details about you or your access security is left on the PC you have used to access the SAFE Network. You can log in to the SAFE Network from another PC that has the MaidSafe client installed.
 
