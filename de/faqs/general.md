@@ -1,18 +1,1 @@
-# General
-
-### Why the name MaidSafe?
-
-It’s an acronym: Massive Array of Internet Disks, Secure Access For Everyone.
-
-
-### Who owns the SAFE Network?
-
-We all do! The SAFE Network is an Open Source resource there for all users of the Internet. The network is completely anonymous, secure and aims to repel human intervention of any kind; it cannot be controlled or 'owned'. We feel very strongly about this and have written a [blog post](http://blog.maidsafe.net/2014/02/07/owning-the-network/) on the subject.
-
-###A truly autonomous distributed network shouldn't need patents to protect it, right?
-
-Our patents exist in a purely defensive capacity, to protect MaidSafe and the developers that use the platform. MaidSafe do not own the patents, they only have the rights to use them, royalty free and in perpetuity. The MaidSafe Foundation, a registered charity, actually own the patents.
-
-###MaidSafe technology is nothing new; are you just throwing up marketing hype around it then mentioning Bitcoin?
-
-Our papers, patents and design documents describe crypto currencies being crucial to a distributed network (otherwise identity leaks are inevitable). They're all available online with early design specifications (such as Perpetual Coin) and were published in 2006, as were many of our initial patents.
+# Allgemeines### Warum der Name MaidSafe?Es ist ein Akronym: Massive Array of Internet Disks, Secure Access For Everyone.### Wem gehört das SAFE-Netzwerk?Uns allen! Das SAFE-Network ist ein Open Source Projekt, und steht allen Internet Nutzern zur Verfügung. Das Netzwerk ist komplett anonym, sicher und so angelegt, dass menschliche Eingriffe jeglicher Art abgewehrt werden. Das Netzwerk kann nicht kontrolliert oder "besessen" werden. Dies ist uns extrem wichtig und es gibt einen [blog post] (http://blog.maidsafe.net/2014/02/07/owning-the-network/) zu diesem Thema.### Ein wirklich autonomes, verteiltes Netzwerk sollte keine Patente benötigen um es zu schützen, oder nicht?Unsere Patente existieren zu reinen Verteidigungszwecken, zum Schutz von MaidSafe und den Entwicklern, die die Plattform nutzen. MaidSafe besitzen diese Patente nicht, sondern haben nur die Rechte sie ohne Lizenz und auf Dauer zu nutzen. Die MaidSafe Foundation, ein eingetragener Verein, besitzt diese Patente.### MaidSafe Technologie ist nichts neues; generiert ihr nicht einfach Marketing-Hype um dann Bitcoin zu erwähnen?Unsere Veröffentlichungen, Patente und Design-Dokumente beschreiben Krypto-Währungen als entscheidend für ein verteiltes Netzwerk (sonst sind Identitäts-Leaks unvermeidlich). Sie sind alle mit frühen Design-Spezifikationen (wie Perpetual Coin) online verfügbar und wurden im Jahr 2006 veröffentlicht, ebenso wie viele unserer ersten Patente.
