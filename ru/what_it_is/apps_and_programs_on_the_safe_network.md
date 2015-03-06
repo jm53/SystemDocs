@@ -1,4 +1,4 @@
-#Apps and programs on the SAFE Network
+#Программы и приложения в сети SAFE
 
 The SAFE Network is also a platform for apps and programs that can be accessed by the network users.
 
