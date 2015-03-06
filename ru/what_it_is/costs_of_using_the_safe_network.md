@@ -6,10 +6,11 @@
 * PIN
 * Пароль
 
-Получив эту информацию, сеть аутентифицирует пользователя и расшифровывает карту данных, которая обеспечивает ему доступ к зашифровыванным данным 
+Получив эту информацию, сеть аутентифицирует пользователя и расшифровывает карту данных, которая обеспечивает ему доступ к зашифровыванным данным.
 
 Клиент MaidSafe это небольшая кроссплатформенная программа, которая не влияет на производительность вашего компьютера. После аутентификации через клиент Вам больше не придется вводить ключи или пароли для получения доступа к остальным данным или приложениям в сети.
 
+Ни пароли, ни логин не кэшируются клиентом и не хранятся в сети. 
 No passwords or log in details are cached by the MaidSafe client or stored on the network. This means that no details about you or your access security is left on the PC you have used to access the SAFE Network. You can log in to the SAFE Network from another PC that has the MaidSafe client installed.
 
 As well as the MaidSafe client, users also require safecoins to access the SAFE Network. Safecoins are the token-based currency of the SAFE Network.
