@@ -20,4 +20,4 @@
 * Создавать новые приложения
 * Способствовать улучшению кодовой базы (основного кода) проекта.
 
-It is anticipated that soon after public launch, it will also be possible to buy safecoins from decentralised exchanges that will exist on the SAFE Network.
+Ожидается, что после общего запуска сети, можно будет приобретать safecoins из распределенных обменных пунктов, которые будут существовать в сети. 
