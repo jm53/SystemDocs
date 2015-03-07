@@ -12,6 +12,7 @@
 
 Ни пароли, ни логин не кэшируются клиентом и не хранятся в сети. Следовательно никакой информации о Вас и безопасности Вашего доступа не останется на ПК, который Вы использовали для доступа к сети. Вы можете войти в сеть SAFE в любого компьютера, на котором установлен клиен MaidSafe.
 
+Так же, как и клиенту, пользователю необходимы safecoins для доступа к сети. Safecoins это основная криптовалюта сети SAFE.
 As well as the MaidSafe client, users also require safecoins to access the SAFE Network. Safecoins are the token-based currency of the SAFE Network.
 
 To earn safecoins users can do the following:
