@@ -14,10 +14,10 @@
 
 Так же, как и клиенту, пользователю необходимы safecoins для доступа к сети. Safecoins это основная криптовалюта сети SAFE.
 
-To earn safecoins users can do the following:
+Чтобы заработать safecoins Вы можете:
 
-* Donating spare computer resources to the network
-* Creating network applications
-* Contributing to the underlying SAFE Network codebase.
+* Предоставлять свободное место на Вашем ПК в сеть
+* Создавать новые приложения
+* Способствовать улучшению кодовой базы (основного кода) проекта.
 
 It is anticipated that soon after public launch, it will also be possible to buy safecoins from decentralised exchanges that will exist on the SAFE Network.
