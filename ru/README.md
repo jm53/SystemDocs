@@ -1,18 +1,18 @@
-# SAFE Network description
+# Описание сети SAFE Network
 
-This book is written for anyone who wants to know more about the **SAFE (Secure Access For Everyone) Network** from MaidSafe. The book explains the details and benefits of using the SAFE Network. The following areas are covered:
+Книга написана для всех, кто хочет узнать больше о сети **SAFE (Secure Access For Everyone - **рус.** *безопасный доступ для все*х)** от компании MaidSafe. Здесь объясняется, в чем польза использования сети SAFE, а так же различные детали, связанные с ней. Эта книга охватывает следующие разделы: 
 
-* **What it is**<br />
-Provides an overview of the components that make up the SAFE Network.
+* **Что это за сеть?**<br />
+Обзор всех составляющих сети SAFE.
 
-* **How it works**<br />
-Provides an overview of the components and processes that make the network function.
+* **Как она работает?**<br />
+Обзор компонент и процессов, определяющих работу сети.
 
-* **How to use it**<br />
-Provides information on interacting with the network and the roles of different users.
+* **Как ее использовать?**<br />
+Информация о взаимодействии с сетью, о роли различных пользователей в ней.
 
-* **Get involved**<br />
-Provides information on where to go if you want to get involved.
+* **Принять участие**<br />
+Что делать, если Вы хотите принять участие в проекте.
 
 * **FAQs**<br />
-If you could not find the information you are looking for, the FAQs list common questions and answers.
+Список часто задаваемых вопросов и ответов на них.

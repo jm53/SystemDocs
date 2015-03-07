@@ -1,7 +1,7 @@
-#Data on the SAFE Network
+#Данные в сети SAFE
 
-As a user saves their data or interacts with applications, their data is broken up, encrypted, and then distributed randomly throughout the network to other Vaults. It is not possible to identify which chunks fit together to comprise a file. These Vaults are independent and autonomous, each storing a small part of the encrypted data.
+Когда пользователь сохраняет свои данные или взаимодействует с приложениями, его данные делятся на множество кусочков (chunks), которые зашифровываются, а затем рандомно распределяются по всей сети, попадая в другие хранилища (Vaults). Невозможно определить, какие кусочки необходимо собрать вместе, чтобы получить исходный файл. Каждое хранилище (Vault) является автономным и независимым и хранит лишь малую часть зашифрованных данных. 
 
-When the user needs to access their data they simply log into the SAFE Network and retrieve their data. At no point does the user’s password or login details get sent out into the network. Each piece of data is encrypted using the data itself and can only be decrypted using the user’s credentials. No data is stored or cached locally and can only be accessed by users with the appropriate login details. This means that there is no synchronisation required whenever a user needs to access their data.
+Чтобы пользователь смог получить доступ к своим данных, ему нужно всего лишь войти в сеть SAFE под своим логином и извлечь их. В течение этого процесса ни пароль, ни логин не отправляются в сеть. Каждый фрагмент данных зашифрован с помощью самого себя, и расшифрован может быть только пользователем, имеющим на это полномочия. Данные не кэшируются и не хранятся локально, и получить доступ к ним можно только с помощью ввода определенной информации. Это означает, что если пользователю нужен доступ к своим данным, синхронизация не потребуется.
 
-As new users join the SAFE Network, they each provide additional resources, directly or by paying for others to provide the required resources. This means that as the network grows, so does its capacity to store and manage data.
+Когда новые пользователи присоединяются к сети, каждый предоставляет дополнительные ресурсы самостоятельно либо заплатив другим за это. Поэтому, с ростом сети растет и ее способность хранить и управлять данными.
