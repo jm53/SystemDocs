@@ -1,19 +1,19 @@
-# Dishonest Vault attack
+# DBetrügerischer Vault Angriff
 
-##Attack description
+##Angriffs Beschreibung
 
-In this attack, a Vault falsely claims to offer a higher storage capacity than it actually has available.
+Bei diesem Angriff behauptet der Vault eine höhere Speicherkapazität zu haben als er eigentlich verfügbar hat.
 
-##Attack purpose
+##Sinn des Agriff
 
-The purpose of this attack is to gain the ability to join particular areas of the SAFE Network and to create fake rules affecting it's behaviour, similar to the "50% attack" often seen in cryptographic currencies.
+Der Sinn des Angriffs ist es die Möglichkeit zu bekommen bestimmten Bereichen des SAFE Netzwerks beizutreten und falsche Regeln zu erstellen die das Verhalten beeinflussen, ähnlich den 50% Attacken die häufig bei kryptographischen Währungen zu beobachten sind.
 
-In large scale attacks of this kind, considerable damage to the SAFE Network would be possible including theft or double spend of safecoins, or the deletion of data.
+In gross angelegten Angriffen dieser Art wäre ein erheblicher Schaden für das SAFE Netzwerk möglich, inklusive Diebstahl, "double spending" oder dem Löschen von Daten.
 
-The goal of this may be simply to destroy user trust in the SAFE Network.
+Das Ziel könnte sein das Vertrauen der Benutzer in das SAFE Netzwerk zu zerstören.
 
-##Attack avoidance
+##Angriff verhindern
 
-The SAFE Network requires a quorum level of legitimate Vaults to be instructed in order for a request to be accepted, which mitigates the risk of this attack.
+Das SAFE Netzwerk benötigt eine Mindestzahl an legitimen Vaults die beauftragt sind um eine Anfrage zu akzeptieren was das Risiko eines Angriffs abschwächt.
 
-A botnet or other group of malicious Vaults would require to make up around 75% of the whole SAFE Network to achieve false quorum over invalid requests, making a successful attack of this type very unlikely.
+Ein Botnetz oder eine andere Gruppe bösartiger Vaults müsste ungefähr 75% des gesamten SAFE Netzwerkes ausmachen um eine falsches Quorum über invalide Anfragen zu erlangen, was eine erfolgreiche Attacke dieser Art sehr unwahrscheinlich macht.

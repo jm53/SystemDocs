@@ -1,21 +1,22 @@
-# Store bad data
+# Schädliche Daten speichern
 
-##Attack description
+##Angriffs Beschreibung
 
-If an attacker was to subvert the self encryption to attempt to create illegal or immoral data of under 1Mb in size, and named with the hash of its content, then potentially the attacker would be able to store this immoral data on the SAFE Network.
+Wenn ein Angreifer die Selbstverschlüsselung untergräbt um zu versuchen illegale oder unmoralische Daten unter 1MB Größe zu erstellen und diese nach dem Hash benennt dann wäre der Angreifer potentiell in der Lage dazu die Daten im SAFE Netzwerk zu speichern.
 
-As self encrypted data is highly obfuscated and nearly impossible to decode, then storing data normally would not yield this attack. There is no mechanism to force the data onto any specific Vault, but the data would simply be on the SAFE Network.
+Da selbstverschlüsselte Daten stark verschleiert sind und nahezu unmöglich zu entziffern, würde das normale Speichern von Daten nicht zu diesem Angriff
+führen. Es gibt keinen Mechanismus um das Speichern von Daten auf einem bestimmten Vault zu forcieren, die Daten sind lediglich im SAFE Netzwerk.
 
-##Attack purpose
+##Sinn des Agriff
 
-The purpose of this attack would be purely to discredit the network. It is unlikely any attacker would know where the data was stored and the network does not disclose this information at any rate. In any case an attacker could state they did manage to do this to alarm users.
+Der Sinn dieses Angriff wäre einzig die Diskreditierung des Netzwerk. Es ist unwahrscheinlich das irgendein Angreifer weiß wo die Daten gespeichert sind und das Netzwerk legt diese Informationen in keinster Weise offen. In jedem Fall könnte ein Angreifer behaupten das es ihm gelungen ist um die Benutzer zu alarmieren.
 
-##Attack avoidance
+##Angriff verhinder
 
-Due to not knowing where the immoral data is stored in the SAFE Network, this attack is already thwarted as the attacker could not retrieve it. In itself this is a form of protection, however the SAFE Network also goes a step further.
+Da nicht bekannt ist wo die schädlichen Daten im SAFE Netzwerk gespeichert sind, ist dieser Angriff bereits vereitelt da der Angreifer die Daten nicht abrufen konnte. Das ansich ist bereits eine Absicherung, das SAFE Netzwerk geht jedoch noch einen Schritt weiter.
 
-As data is stored in the SAFE Network, the key used to store it is also used to encrypt the content. This key is then hashed itself and the content renamed to this key. The original key and content are then deleted. In this manner, the Vault storing the data has no ability to decrypt its stored chunks of data.
+Wenn Daten im SAFE Netzwerk gespeichert werden, wird der Schlüssel zum speichern der Daten auch zum Verschlüsseln der Daten genutzt. Dieser Schlüssel wird selbst noch gehashed und der Inhalt zu diesem Schlüssel umbenannt. Der Original Schlüssel und der Inhalt werden anschliessend gelöscht. Auf diese Weise ist der Vault der die Daten speichert nicht in der Lage die gespeicherten Datenteile zu entschlüsseln.
 
-The SAFE Network can ask for a chunk, and the Vault will hash this request and look in its storage for the hash of the requested chunk. On finding this, the Vault will use the requested key to decode the content in memory and send the data on named with the requesting key. This will then be able to reform as an immutable data chunk, but only for the requesting Vault.
+Das SAFE Netzwerk kann ein Datenteil anfragen woraufhin der Vault diese Anfragen hashen wird und in seinem Speicher nach diesem Hash guckt. Wenn dieser gefunden wird, benutzt der Vault den angefragten Schlüssel um den Inhalt im Speicher zu dekodieren.............. Dieses wird dann zu einem unveränderbaren Datenteil umgewandelt, allerdings nur für den anfragenden Vault.
 
-This therefore is similar to an attacker fully encrypting the data themselves and storing on any computer or network.
+Daher ist es ähnlich zu einem Angreifer der die Daten selbst komplett verschlüsselt und sie auf irgendeinem Computer oder Netzwerk speichert.

@@ -1,17 +1,16 @@
-# Libraries
+# Bibliotheken
 
-The SAFE network is comprised of 9 individual libraries. The following section, aimed at the more technical reader, provides a more detailed explanation of what role each library performs and how they work.
+Das SAFE Netzwerk besteht aus 9 individuellen Bibliotheken. Die folgende Sektion, gedacht für den technisch versierten Leser, bietet eine detailierte Erklärung welche Rolle jede Bibliotheken und wie sie funktionieren
 
-The code for each library is available in MaidSafe's [GitHub repository](https://github.com/maidsafe). The libraries are:
+Der Code jeder Bibliothek ist im [GitHub repository](https://github.com/maidsafe) von Maidsafe zu finden. Es gibt die folgenden Bibliotheken:
 
-1.  Common - a library of utility functions
-2.  Passport - provides a self-certifying Public Key Infrastructure, PKI, independent of the requirement for any central directory
-3.  RUDP - implementation of Reliable UDP
-4.  Routing - routing is a Distributed Hash Table (DHT) library based on Kademlia-like routing tables
-5.  Encrypt - MaidSafe Encrypt implements functions related to 'self-encryption' of files and folders
-6.  Drive - MaidSafe-Drive is a virtual drive offering services to store and retrieve information to any storage media including network file systems
-7.  Network FileSystem - treats the MaidSafe network as a filesystem. Exposes a pseudo restful interface (GET PUT POST DELETE)
-8.  Vault Manager - Data Storage, Data Types and the LifeStuff Manager.
-9.  Vault - Self healing, self managing and fully distributed network
-
+1. Common - eine Bibliothek aus Utility Funktionen
+2. Passport - stellt eine selbst zertifizierende Public Key Infrastructure (PKI) bereit, unabhängig von den Anforderungen jeglicher zentraler Verzeichnisse.
+3. RUDP - Implementierung von "Reliable UDP"
+4. Routing - Routing ist eine Distributed Hash Table (DHT) Bibliothek die auf Kademlia ähnlichen Routing Tabellen beruht.
+5. Encrypt - SAFE Encrypt verwirklicht Funktionen die für die Selbstverschlüsselung von Dateien und Ordnern zuständig sind.
+6. Drive - SAFE Drive ist ein virtuelles Laufwerk das es erlaubt Informationen von jedem Speichermedium, inklusive Netzwerk Dateisystemen, zu speichern und abzurufen.
+7. Network Filesystem - behandlet das SAFE Netzwerk als ein Dateisystem und legt ein pseudo "Restful Interface" (GET PUT POST DELETE) dar.
+8. Vault Manager - Datenspeicher, Datentypen und der Lifestuff Manager.
+9. Vault - Selbstheilung, Selbstverwaltung und voll verteiltes Netzwerk.
 

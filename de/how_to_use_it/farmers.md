@@ -1,13 +1,14 @@
-# A Farmer
+# Ein Farmer
 
-As a user of the SAFE Network, a Farmer installs the MaidSafe client and provides unused computer resources to the network such as storage, CPU processing, and bandwidth.
+Als ein Benutzer des SAFE Netzwerks installiert ein Farmer den SAFE Client und stellt dem Netzwerk ungenutze Computer Ressourcen wie Speicher, CPU Prozesse und Bandbreite zur Verfügung.
 
-These resources are used to securely and anonymously comprise the SAFE Network, replacing data centres that constitute the current centralised Internet. This is done using the local Vault on the Farmer's computer, which is installed as part of the download process and configured using the MaidSafe client.
+Aus diesen Ressourcen wird das SAFE Netzwerk gebildet, sicher und anonym und ersetzt damit die Rechenzentren die das momentan zentralisierte Internet ausmachen. Das wird durch den lokalen Vault auf dem Computer des Farmers erreicht welcher als Teil des Download Prozess installiert und durch den SAFE Client konfiguriert wird.
 
-When the resources provided exceed the network average the Farmer earns safecoins in exchange for providing these resources. This is indicated to the Farmer by a notification from the Maidsafe client.
+Wenn die bereitgestellten Ressourcen den Netzwerk Durschnitt übersteigen, verdient der Farmer als Ausgleich zur Bereitstellung dieser Ressourcen Safecoins. Dies wird dem Farmer durch eine Benachrichtgung durch den SAFE Client angezeigt.
 
-The safecoins earned are credited to the Farmers account and can then be used by the Farmer, for example, by exchanging them for additional storage.
+Die verdienten Safecoins werden dem Konto des Farmers gutgeschrieben und können dann vom Farmer genutzt werden, z.b. für zusätzlichen Speicherplatz.
 
-The Farmer can also run apps and programs which have been designed for use on the SAFE Network.
+Der Farmer kann auch Programme starten die für die Nutzung im SAFE Netzwerk designed wurden.
 
-[Click here for more information about how a Farmer earns safecoins ](https://www.youtube.com/watch?v=qpyT6VpdBMQ)
+
+[KLicke hier für mehr Informationen darüber wie ein Farmer Safecoins verdient.](https://www.youtube.com/watch?v=qpyT6VpdBMQ)

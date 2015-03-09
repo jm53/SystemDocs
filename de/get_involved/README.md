@@ -1,39 +1,42 @@
-# Get involved
+# Beteilige Dich
 
-The following links provide information on where to go if you want to get involved.
+Die folgenden Links bieten Informationen an welchen Orten man sich beteligen und informieren kann. Die hier aufgeführten Links sind momentan alle noch in englischer Sprache.
+
 
 * [MaidSafe.net](http://maidsafe.net)<br/>
-The company coordinating the development and launch of the SAFE Network.
-
-* [Contacting MaidSafe](http://maidsafe.net/contact)<br />
-Get in touch with MaidSafe.
-
-* [The MaidSafe YouTube Channel](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)<br/>
-A large selection of videos about the SAFE Network and how it works.
+Die Firma die die Entwicklung und den Start des SAFE Netzwerkes koordiniert.
 
 
-### Core Developer and App Builder
+* [MaidSafe Kontakt](http://maidsafe.net/contact)<br />
+MaidSafe kontaktieren.
 
-The following links provide more information if you are a Core Developer or an App Builder.
+* [Der MaidSafe YouTube Kanal](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)<br/>
+Eine große Auswahl an Videos über das SAFE Netzwerk und wie es funktioniert.
+
+
+### Core und App Entwickler
+
+Die folgenden Links bieten weiterführende Informationen wenn Du ein Core oder App Entwicker bist.
+
 
 * [GitHub](https://github.com/orgs/maidsafe)<br/>
-All the GitHub repositories for the SAFE Network.
+Alle GitHub Repositoriesfür das SAFE Netzwerk.
 
-* [Developer wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
-The GitHub repository that provides details of the open source libraries.
+* [Entwickler wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
+Das GitHub Repository bietet Details zu den Open Source Bibliotheken.
 
-* [Developer task list](https://maidsafe.atlassian.net/secure/Dashboard.jspa)<br />
-The current list of bugs and tasks that are part of the SAFE Network development.
+* [Entwickler Aufgaben Liste](https://maidsafe.atlassian.net/secure/Dashboard.jspa)<br />
+Die aktuelle Liste an Bugs udn Aufgaben die Teil der SAFE Netzwerk Entwicklung sind.
 
 * [maidsafe.org](https://www.maidsafe.org/)<br />
-A community run resource for questions, debate and research into all aspects of the SAFE Network.
+Eine Resource für Fragen, Debatten und Forschung über alle Aspekte des SAFE Netzwerk die von der Community betrieben wird.
 
-###White papers
-Here are some technical white papers explaining various parts of the SAFE Network.
+###White Papers
+Hier sind so technische White Papers die zahlreichen Teile des SAFE Netzwerk erklären.
 
-* [AutonomousNetwork](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/AutonomousNetwork.pdf?raw=true)
-* [Distributed File System ](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedFileSystem.pdf?raw=true)
-* [Self Authentication](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/SelfAuthentication.pdf?raw=true)
+* [Autonomos Netzwerk](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/AutonomousNetwork.pdf?raw=true)
+* [Verteiltes Dateisystem ](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedFileSystem.pdf?raw=true)
+* [Selbst Authentifizierung](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/SelfAuthentication.pdf?raw=true)
 * [Distributed Hash Table](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedHashTable.pdf?raw=true)
-* [DHT based NAT traversal](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/DHTbasedNATTraversal.pdf?raw=true)
-* [The SAFE Network a New, Decentralised Internet](http://maidsafe.net/docs/SAFEnetwork.pdf)
+* [DHT basierendes NAT Traversal](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/DHTbasedNATTraversal.pdf?raw=true)
+* [Das SAFE Netzwerk; ein neues, dezentrales Internet](http://maidsafe.net/docs/SAFEnetwork.pdf)

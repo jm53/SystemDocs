@@ -1,3 +1,5 @@
 * [German](de/)
-* [French](fr/)
 * [English](en/)
+* [French](fr/)
+* [Dutch](nl/)
+* [Russian](ru/)
