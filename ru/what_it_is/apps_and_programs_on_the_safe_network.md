@@ -1,19 +1,19 @@
-#Apps and programs on the SAFE Network
+#Программы и приложения в сети SAFE
 
-The SAFE Network is also a platform for apps and programs that can be accessed by the network users.
+Сеть SAFE - это также платформа для создания и внедрения ее пользователями различных приложений и программ.
 
-Here are some examples of the type of apps that can be used on the SAFE Network.
+Ниже приведены некоторые примеры типов приложений, которые могут использоваться в сети.
 
-* Cloud storage
-* Encrypted messaging
-* Web sites
+* Облачные хранилища
+* Шифрование сообщений
+* Веб-сайты
 * VoIP
-* Social networks
-* Document processing of any data provided by any program
-* Distributed databases
-* Document or contract signing
-* Any existing service that runs on the Internet
+* Социальные сети
+* Обработка любых документов
+* Распределенные базы данных
+* Заключение контрактов, подпись документов
+* Любые службы, работающие в сети Интернет
 
-The apps and programs contain cryptographically secured key pairs and can use these to automatically sign requests for session management or membership of any network service.
+Все приложения содержат криптографически защищенные пары ключей, используемые для автоматического подтверждения запросов управления сеансами или членства в любом сетевом сервисе.
 
-For example, a website with membership can present a join button and clicking that would automatically sign an authority and allow access in the future.
+Например, веб-сайт с поддержкой членства предоставляет кнопку "Присоединиться", нажав которую Вам автоматически предоставятся полномочия для доступа в будущем.
